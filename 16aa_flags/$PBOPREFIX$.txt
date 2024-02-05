@@ -1,0 +1,4 @@
+//<'16aa_flags.pbo' properties via Mikero's dos tools, dll version 8.35>
+prefix=16aa_flags;
+//PboType=Arma Addon;
+//</properties>
