@@ -1,12 +1,12 @@
 #include "BIS_AddonInfo.hpp"
 class CfgPatches {
   class 16aa_flags {
-    units[] = {}; // This should be an array, even if it's empty
-    weapons[] = {}; // This should also be an array, even if it's empty
-    requiredAddons[] = {}; // Again, an array
-    author = "16AA"; // Single string, not an array
-    authors[] = {"16AA"}; // This can be an array if there are multiple authors
-    url = "https://16aa.net"; // Single string, not an array
+    units[] = {};
+    weapons[] = {};
+    requiredAddons[] = {};
+    author = "16AA";
+    authors[] = {"16AA"};
+    url = "https://16aa.net";
   };
 };
 
